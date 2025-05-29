@@ -131,7 +131,7 @@ DEFAULT_FROM_EMAIL = 'your-email@example.com'
 ```
 ---
 
-## Project Views (Example Screenshots)
+## Project Views
 
 > * User dashboard
 ![alt text](image-5.png)
